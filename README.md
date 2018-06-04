@@ -1,3 +1,5 @@
+# hello-world-command
+
 This is an example Maven project implementing an ImageJ command.
 
 It is intended as an ideal starting point to develop new ImageJ commands
@@ -85,4 +87,4 @@ publish the result in your own repository:
 
 This ensures that the final `.jar` file will also be copied to your ImageJ
 plugins folder everytime you run the Maven Build
-# hello-world-command
+
